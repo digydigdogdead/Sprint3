@@ -10,9 +10,9 @@ namespace Sprint3
     {
         public string Name { get; set; }
 
-        public static void Catch()
+        public virtual void Catch()
         {
-            Console.WriteLine("Congratulations! You caught a Pokémon.");
+            Console.WriteLine($"Congratulations! You caught {this.Name}.");
         }
 
         public static void Run()

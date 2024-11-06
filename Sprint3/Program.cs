@@ -18,9 +18,9 @@ namespace Sprint3
 
             //Pokemon.Catch();
 
-            //Pokemon clefairy = new Pokemon();
-            //Pokemon suicune = new Pokemon();
-            //Pokemon skeledirge = clefairy;
+            Pokemon clefairy = new Pokemon();
+            Pokemon suicune = new Pokemon();
+            Pokemon skeledirge = clefairy;
 
             //Console.WriteLine(skeledirge.GetType());
 
@@ -33,11 +33,18 @@ namespace Sprint3
             //Console.WriteLine(suicune.ToString());
 
             //Console.WriteLine("Enter instructions for creating an instance of Northcoders_Student in the format:  @\'{ 'Name': 'Evie Pom', 'YearsCoding': 6,  'IsDebugging': false,'CodingAffiliation' : 'Poms Who Code'}\';");
-            string userInput = Console.ReadLine();
-            Console.WriteLine(userInput);
-            //string jsonString = "{\"Name\":\"EviePom\",\"YearsCoding\":6,\"IsDebugging\":false,\"CodingAffiliation\":\"PomsWhoCode\"}";
-            NorthcodersStudent member = JsonSerializer.Deserialize<NorthcodersStudent>(userInput);
-            Console.WriteLine(member.Name);
+            //string userInput = Console.ReadLine();
+            //Console.WriteLine(userInput);
+            ////string jsonString = "{\"Name\":\"EviePom\",\"YearsCoding\":6,\"IsDebugging\":false,\"CodingAffiliation\":\"PomsWhoCode\"}";
+            //NorthcodersStudent member = JsonSerializer.Deserialize<NorthcodersStudent>(userInput);
+            //Console.WriteLine(member.Name);
+
+            clefairy.Name = "Clefairy";
+            FireTypePokemon charmander = new FireTypePokemon();
+            charmander.Name = "Charmander";
+
+            clefairy.Catch();
+            charmander.Catch();
 
         }
     }
