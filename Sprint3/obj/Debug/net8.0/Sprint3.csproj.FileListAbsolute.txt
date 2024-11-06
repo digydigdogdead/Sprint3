@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\bin\Debug\net8.0\Sprint3.exe
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\bin\Debug\net8.0\Sprint3.deps.json
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\bin\Debug\net8.0\Sprint3.runtimeconfig.json
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\bin\Debug\net8.0\Sprint3.dll
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\bin\Debug\net8.0\Sprint3.pdb
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.AssemblyInfo.cs
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.dll
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\refint\Sprint3.dll
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.pdb
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\Sprint3.genruntimeconfig.cache
+C:\Users\Admin\Documents\Northcoders\intro-week\Sprint 3\Sprint3\Sprint3\obj\Debug\net8.0\ref\Sprint3.dll
