@@ -13,7 +13,21 @@
             */
 
             Pokemon.Catch();
-    
+
+            Pokemon clefairy = new Pokemon();
+            Pokemon suicune = new Pokemon();
+            Pokemon skeledirge = clefairy;
+
+            Console.WriteLine(skeledirge.GetType());
+
+            Console.WriteLine(Object.ReferenceEquals(clefairy, skeledirge));
+            Console.WriteLine(Object.ReferenceEquals(clefairy, suicune));
+
+            skeledirge.Name = "Skeledirge";
+
+            Console.WriteLine(skeledirge.ToString());
+            Console.WriteLine(suicune.ToString());
+
         }
     }
 }
